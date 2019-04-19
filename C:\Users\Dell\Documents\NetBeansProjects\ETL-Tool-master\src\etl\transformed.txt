@@ -1,0 +1,12 @@
+0,SulakshanaVasudev,Divorced,51,7265829,Et Lacinia Incorporated,843849,+91 8669706962,P.O. Box 906 9766 Est Av.,FEMALE,Vasudev
+0,SambitRavinandan,Single,11,3662283,Vel Est Tempor Associates,430874,+91 2159664522,Ap #217-7891 Malesuada Av.,FEMALE,Ravinandan
+0,RaakhiRaakhi,Single,31,6344524,Erat Neque Non Consulting,384386,+91 4201431733,P.O. Box 563 8420 Ligula Avenue,FEMALE,Raakhi
+0,RavinandanSambit,Single,39,4098558,Urna Justo Consulting,157924,+91 4079150695,P.O. Box 276 1000 Gravida St.,FEMALE,Sambit
+0,VasudevSulakshana,Divorced,35,3145846,Cum Sociis Natoque Associates,299428,+91 5889360158,1044 Adipiscing Ave,FEMALE,Sulakshana
+0,duplicate,Divorced,51,7265829,Et Lacinia Incorporated,843849,+91 8669706962,P.O. Box 906 9766 Est Av.,FEMALE,Vasudev
+0,duplicate,Single,11,3662283,Vel Est Tempor Associates,430874,+91 2159664522,Ap #217-7891 Malesuada Av.,FEMALE,Ravinandan
+0,duplicate,Single,31,6344524,Erat Neque Non Consulting,384386,+91 4201431733,P.O. Box 563 8420 Ligula Avenue,FEMALE,Raakhi
+0,duplicate,Single,39,4098558,Urna Justo Consulting,157924,+91 4079150695,P.O. Box 276 1000 Gravida St.,FEMALE,Sambit
+0,duplicate,Divorced,35,3145846,Cum Sociis Natoque Associates,299428,+91 5889360158,1044 Adipiscing Ave,FEMALE,Sulakshana
+0,duplicate,Divorced,51,7265829,Et Lacinia Incorporated,843849,+91 8669706962,P.O. Box 906 9766 Est Av.,FEMALE,Vasudev
+0,duplicate,Single,11,3662283,Vel Est Tempor Associates,430874,+91 2159664522,Ap #217-7891 Malesuada Av.,FEMALE,Ravinandan
